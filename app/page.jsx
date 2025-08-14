@@ -179,7 +179,7 @@ export default function Home() {
               </span>
             </div>
             <div className="h-48 overflow-auto rounded-md bg-white p-3 text-gray-800 border">
-              {originalDisplay || <span className="text-gray-400">Speak or type...</span>}
+              {originalDisplay || <span className="text-gray-400">Speak...</span>}
             </div>
             <div className="mt-3 flex flex-wrap gap-2">
               {!recording ? (
