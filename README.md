@@ -49,10 +49,5 @@ npm run dev
 4. **Click "Speak"** to play the translated text aloud.
 5. Use **Clear** to reset.
 
----
-
-## 👩‍💻 Author
-**Ayesha Amjad**  
-[GitHub Portfolio](https://github.com/Ayeshamjad) | [LinkedIn](https://linkedin.com/in/your-link)
 
 
